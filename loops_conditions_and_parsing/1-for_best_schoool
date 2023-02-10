@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+#print the words in a list
+for _ in {1..10}
+do
+	echo "Best School"
+done
